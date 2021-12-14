@@ -1,1 +1,3 @@
-prompt skwp
+#prompt skwp
+prompt powerlevel10k
+
